@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from Sun Yet-Sun University(https://www.sysu.edu.cn/). My research inteest includes auto driving, computer vison, Machine learning, and deep learning.  
+I'm a third year undergraduate student from [Sun Yet-Sun University](https://www.sysu.edu.cn/). My research intrest includes auto driving, computer vison, machine learning, and deep learning.  
